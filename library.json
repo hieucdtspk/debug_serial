@@ -1,0 +1,21 @@
+{
+  "name": "debug_serial",
+  "version": "0.1.1",
+  "description": "A small debug/logger wrapper via serial for arduino",
+  "keywords": "debug, logger, serial",
+  "authors": [
+    {
+      "name": "Hieu Nguyen",
+      "url": "https://github.com/hieucdtspk",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hieucdtspk/debug_serial.git"
+  },
+  "homepage": "https://github.com/hieucdtspk/debug_serial",
+  "frameworks": ["arduino"],
+  "platforms": "*",
+  "examples": "examples/*/*.ino"
+}
